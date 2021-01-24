@@ -80,7 +80,7 @@ Go [here](./CodeGrade-webhook.md) to setup the CodeGrade webhook before you begi
 
 - [ ] In a separate terminal cd into the `client` folder and run `npm install` to download dependencies.
 - [ ] Still inside the `client` folder run `npm run start` to run the client application.
-- [ ] Your browser should open up the project as 
+- [ ] Your browser should open up the project as  hello
 
 **Starting your test runner**
 
